@@ -1,15 +1,14 @@
 <!-- Latest compiled and minified CSS -->
-<!--<link rel="stylesheet" href="bootstrap-3.3.5/dist/css/bootstrap.min.css">-->
-<!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">-->
-<!-- library  CSS -->
-<!--<link rel="stylesheet/less" href="bootstrap-3.3.5/less/bootstrap.less">-->
+<link rel="stylesheet" href="bootstrap-3.3.5/dist/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+<link rel="stylesheet/less" href="bootstrap-3.3.5/less/bootstrap.less">
 
 <link rel="stylesheet/less" type="text/css" href="styles.less" />
-<!-- jQuery library -->
-<!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>-->
-<!-- Latest compiled JavaScript -->
-<!--<script src="main-bootstrap/js/bootstrap.min.js"></script>-->
-<!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>-->
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+ 
+<script src="main-bootstrap/js/bootstrap.min.js"></script>
+ <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
 <script src="//cdnjs.cloudflare.com/ajax/libs/less.js/3.0.0/less.min.js" ></script>
     
